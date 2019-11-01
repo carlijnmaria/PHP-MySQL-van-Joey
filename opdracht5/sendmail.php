@@ -7,7 +7,7 @@
  */
 
 //mail variabelen.
-$to = 'patrick.laranjoG@gmail.com';
+$to = 'carlijndenhartog@hotmail.nl';
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 $header = 'From: ' . $_POST['from'];
